@@ -1,5 +1,4 @@
 # NLW16 - Journey
-
 Trilha Java
 
 <p align="center">
